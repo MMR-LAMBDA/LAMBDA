@@ -755,5 +755,5 @@ tryCatch({
 
 
 cat("\n================================================================================\n")
-cat("Master analysis pipeline (6 steps) completed successfully.\n")
+cat("Master analysis pipeline (6 steps) completed.\n")
 cat("================================================================================\n")
