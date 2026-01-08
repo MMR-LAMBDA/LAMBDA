@@ -62,9 +62,6 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
-# =========================================================================================
-# --- Helper Functions (Internal Logic Ported from Original Scripts) ---
-# =========================================================================================
 
 def _se_filter_by_majority(input_bam: Path, output_bam: Path, chromosome: str, positions: str):
     """
